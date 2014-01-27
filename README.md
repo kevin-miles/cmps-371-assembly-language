@@ -4,8 +4,8 @@ CMPS 371 Assembly Language
 
 What is this repo?
 ------------------
-Notes and HW for an assembly language class.
-Currently in progress.
+Notes and/or HW for an assembly language class based on C++. Basically assembly was taught through inline _asm blocks in the C++ code. C++ was used for mostly input/output.
+
 
 How is it organized?
 --------------------
